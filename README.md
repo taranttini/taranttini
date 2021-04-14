@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá mundo! 🤙🌎
 
 <!--
 **taranttini/taranttini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,9 @@ Já estudei Basic, Delphi, DBase, Interbase, Firebird, VB, Access, Java, Oracle,
 
 Mas trabalhei fortemente com Php, Delphi, C#, Asp.Net WebForm e JavaScript, Interbase, MySql e SqlServer
 
-Tecnologias sempre irão surgir e ter o seu momento no mercado, principalmente oportunidades, mas existe também aquelas tecnologias que temos mais gosto pelo prazer de trabalhar daquela forma ou porque foi uma das primeiras aprendida. E quantos POG's já fiz para chegar a fazer o uso das melhores práticas (porque o mercado de TI se viu na necessidade dos padrões), pois era de cada "JEITO", e as vezes bate uma saudade daquele POG 😄 😁 😆 😅
+Tecnologias sempre irão surgir e ter o seu momento no mercado, principalmente oportunidades, mas existe também aquelas tecnologias que temos mais gosto pelo prazer de trabalhar daquela forma ou porque foi uma das primeiras aprendida. E quantos POG's já fiz para chegar a fazer o uso das melhores práticas, *"porque o mercado de TI viu a necessidade do uso de padrões e processos melhorados"*, pois era de cada ***"JEITO"*** e as vezes bate uma saudade daquele POG 😄 😁 😆 😅
 
-E qual vai ser a "hype" do próximo momento? tudo sempre irá evolui, por isso não podemos se prender ao passado, evoluir e crescer sempre será necessário, por isso "o aprender nunca acaba, recomeça a cada novo instante"
+E qual vai ser a **"hype"** do próximo momento? tudo sempre irá evolui, por isso não podemos se prender ao passado, evoluir e crescer sempre será necessário, por isso *"o aprender nunca acaba, recomeça a cada novo instante"*.
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taranttini&show_icons=true&hide=issues,contribs&theme=buefy)](https://github.com/taranttini)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taranttini&layout=compact&langs_count=6&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)](https://github.com/taranttini)
