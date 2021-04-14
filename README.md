@@ -25,6 +25,7 @@ Tecnologias sempre irão surgir e ter o seu momento no mercado, principalmente o
 
 E qual vai ser a "hype" do próximo momento? tudo sempre irá evolui, por isso não podemos se prender ao passado, evoluir e crescer sempre será necessário, por isso "o aprender nunca acaba, recomeça a cada novo instante"
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taranttini&show_icons=true&hide=stargazers;forkCount)](https://github.com/taranttini)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taranttini&show_icons=true&hide=issues,contribs&theme=buefy)](https://github.com/taranttini)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taranttini&layout=compact&langs_count=6&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)](https://github.com/taranttini)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taranttini&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[*credits to graphs/stats by **anuraghazra***](https://github.com/anuraghazra/github-readme-stats)
