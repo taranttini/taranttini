@@ -19,7 +19,7 @@ Programador autodidata, que adora descobrir novas coisas em tecnologia e desenvo
 
 Já estudou ou trabalhou com: Basic, Delphi, DBase, Interbase, Firebird, VB, Access, Java, Oracle, PL/SQL, Html, JavaScript, Jsp, Asp, SqlServer, T-SQL, Linux, Php, MySql, Css, Flash, ActionScript, Sqlite, C#, Asp.Net (Window Form, WebForm), XML, SOAP, Python, Django, Ruby on Rails, PostgreSql, Jquery, WCF, Node, MongoDB, Firebase, AngularJs, netcore, React, Rust, Vue, Angular, Svelte, AWS, Docker, Kubernetes, Azure, Go, OpenShift ... (acredito que na sua respectiva ordem)
 
-Mas trabalhou fortemente com C#, Asp.Net WebForm, Javascript e SqlServer
+Trabalhou fortemente com C#, Asp.Net WebForm, Javascript e SqlServer
 
 Hoje está focado em: C#, .netcore, Angular, SqlServer e Oracle
 
