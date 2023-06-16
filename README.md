@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Programador autodidata, adoro descobrir novas coisas em TI, e me dedico ao máximo em aprender a repeito tecnologia. Estudando e praticando, eu aprendo e me desenvolvo.
+Programador autodidata, que adora descobrir novas coisas em tecnologia e desenvolvimento, se dedicando ao máximo em aprender a assuntos relacionados ao desenvolvimento de sistemas, software, arquitetura, processamento, segurança e evolução dos mesmos. Estudando e praticando, aprendemos e desenvolvemos.
 
-Já estudei Basic, Delphi, DBase, Interbase, Firebird, VB, Access, Java, Oracle, PL/SQL, Html, JavaScript, Jsp, Asp, SqlServer, T-SQL, Php, MySql, Css, Flash, ActionScript, Sqlite, C#, Asp.Net (Window Form, WebForm), XML, Python, Django, Ruby on Rails, PostgreSql, Jquery, Node, MongoDB, AspNet Core, Rust, AngularJs, Angular, React, Vue, Svelte, Docker, Kubernetes, Go ... (acho que em ordem)
+Já estudou ou trabalhou com: Basic, Delphi, DBase, Interbase, Firebird, VB, Access, Java, Oracle, PL/SQL, Html, JavaScript, Jsp, Asp, SqlServer, T-SQL, Linux, Php, MySql, Css, Flash, ActionScript, Sqlite, C#, Asp.Net (Window Form, WebForm), XML, SOAP, WCF, Python, Django, Ruby on Rails, PostgreSql, Jquery, Node, MongoDB, AspNet Core,  AngularJs, React, Rust, Vue, Angular, Svelte, Docker, Kubernetes, Go, OpenShift ... (acredito que na sua respectiva ordem)
 
-Mas trabalhei fortemente com Php, Delphi, C#, Asp.Net WebForm e JavaScript, Interbase, MySql e SqlServer
+Mas trabalhou fortemente com Php, Delphi, C#, Asp.Net WebForm e JavaScript, Interbase, MySql e SqlServer
 
-Tecnologias sempre irão surgir e ter o seu momento no mercado, principalmente oportunidades, mas existe também aquelas tecnologias que temos mais gosto pelo prazer de trabalhar daquela forma ou porque foi uma das primeiras aprendida. E quantos POG's já fiz para chegar a fazer o uso das melhores práticas, *"porque o mercado de TI viu a necessidade do uso de padrões e processos melhorados"*, pois era de cada ***"JEITO"*** e as vezes bate uma saudade daquele POG 😄 😁 😆 😅
+Hoje está focado em: C#, .netcore, SqlServer, Oracle e Angular
 
-E qual vai ser a **"hype"** do próximo momento? tudo sempre irá evolui, por isso não podemos se prender ao passado, evoluir e crescer sempre será necessário, por isso *"o aprender nunca acaba, recomeça a cada novo instante"*.
+Tecnologias sempre irão surgir e ter o seu momento no mercado, principalmente as oportunidades profissionais, mas existem também aquelas tecnologias que temos mais preferência ou prazer de trabalhar, pois às vezes foi uma das primeiras aprendidas, ou porque é a tecnologia do trabalho atual. E quantos POG's já chegamos a fazer ao longo da jornada, para que dessa forma pudesse evoluir, aprendendo, conhecendo, compartilhando e fazendo uso das melhores práticas, *"o mercado de TI, se viu da necessidade ao longo do tempo, lidar com todo tipo de projeto e seus períodos tecnológicos, e a evolução para manter times, códigos legíveis e manutenível, sempre teve que se reinventar e fazer o uso de padrões e processos melhorados sempre que a tecnologia evoluiu"*, pois as coisas já foram feitas de cada ***"JEITO"***, e as vezes bate uma saudade daqueles POG 😄 😁 😆 😅
+
+E qual vai ser a **"hype"** do próximo momento? tudo sempre irá evoluir, por isso não podemos se prender ao passado, evoluir e crescer sempre será necessário, por isso *"o aprender nunca acaba, recomeça a cada novo instante"*.
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taranttini&show_icons=true&hide=issues,contribs&theme=buefy)](https://github.com/taranttini)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taranttini&layout=compact&langs_count=6&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)](https://github.com/taranttini)
