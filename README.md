@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Programador autodidata, que adora descobrir novas coisas em tecnologia e desenvolvimento, se dedicando ao máximo em aprender a assuntos relacionados ao desenvolvimento de sistemas, software, arquitetura, processamento, segurança e evolução dos mesmos. Estudando e praticando, aprendemos e desenvolvemos.
 
-Já estudou ou trabalhou com: Basic, Delphi, DBase, Interbase, Firebird, VB, Access, Java, Oracle, PL/SQL, Html, JavaScript, Jsp, Asp, SqlServer, T-SQL, Linux, Php, MySql, Css, Flash, ActionScript, Sqlite, C#, Asp.Net (Window Form, WebForm), XML, SOAP, WCF, Python, Django, Ruby on Rails, PostgreSql, Jquery, Node, MongoDB, AspNet Core,  AngularJs, React, Rust, Vue, Angular, Svelte, Docker, Kubernetes, Go, OpenShift ... (acredito que na sua respectiva ordem)
+Já estudou ou trabalhou com: Basic, Delphi, DBase, Interbase, Firebird, VB, Access, Java, Oracle, PL/SQL, Html, JavaScript, Jsp, Asp, SqlServer, T-SQL, Linux, Php, MySql, Css, Flash, ActionScript, Sqlite, C#, Asp.Net (Window Form, WebForm), XML, SOAP, Python, Django, Ruby on Rails, PostgreSql, Jquery, WCF, Node, MongoDB, Firebase, AngularJs, netcore, React, Rust, Vue, Angular, Svelte, AWS, Docker, Kubernetes, Azure, Go, OpenShift ... (acredito que na sua respectiva ordem)
 
-Mas trabalhou fortemente com Php, Delphi, C#, Asp.Net WebForm e JavaScript, Interbase, MySql e SqlServer
+Mas trabalhou fortemente com C#, Asp.Net WebForm, Javascript e SqlServer
 
-Hoje está focado em: C#, .netcore, SqlServer, Oracle e Angular
+Hoje está focado em: C#, .netcore, Angular, SqlServer e Oracle
 
 Tecnologias sempre irão surgir e ter o seu momento no mercado, principalmente as oportunidades profissionais, mas existem também aquelas tecnologias que temos mais preferência ou prazer de trabalhar, pois às vezes foi uma das primeiras aprendidas, ou porque é a tecnologia do trabalho atual. E quantos POG's já chegamos a fazer ao longo da jornada, para que dessa forma pudesse evoluir, aprendendo, conhecendo, compartilhando e fazendo uso das melhores práticas, *"o mercado de TI, se viu da necessidade ao longo do tempo, lidar com todo tipo de projeto e seus períodos tecnológicos, e a evolução para manter times, códigos legíveis e manutenível, sempre teve que se reinventar e fazer o uso de padrões e processos melhorados sempre que a tecnologia evoluiu"*, pois as coisas já foram feitas de cada ***"JEITO"***, e as vezes bate uma saudade daqueles POG 😄 😁 😆 😅
 
